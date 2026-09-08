@@ -15,6 +15,8 @@ Companion index: [ml-from-scratch](https://github.com/cartercpp/ml-from-scratch)
 - [Deque](https://github.com/cartercpp/deque)
 - [Linked List](https://github.com/cartercpp/linked-list-demo)
 - [XOR List](https://github.com/cartercpp/xor-list)
+- [N-Dimensional Container](https://github.com/cartercpp/n-dimensional-container)
+- [Custom Span](https://github.com/cartercpp/custom-span)
 
 ### Stacks & Queues
 - [Queue](https://github.com/cartercpp/queue)
@@ -43,7 +45,6 @@ Companion index: [ml-from-scratch](https://github.com/cartercpp/ml-from-scratch)
 - [Cuckoo Hashing](https://github.com/cartercpp/cuckoo-hashing)
 - [Bloom Filter](https://github.com/cartercpp/bloom-filter)
 - [Flat Set](https://github.com/cartercpp/flat-set)
-- [Hash Algorithms](https://github.com/cartercpp/hash-algorithms)
 
 ### Maps
 - [Custom Flat Map](https://github.com/cartercpp/custom-flat-map)
@@ -56,11 +57,11 @@ Companion index: [ml-from-scratch](https://github.com/cartercpp/ml-from-scratch)
 ### Caches
 - [LRU Cache](https://github.com/cartercpp/lru-cache)
 
-### Matrices
-- [Matrix Calculator](https://github.com/cartercpp/matrix-calculator)
-- [Compile-Time Matrix Operations](https://github.com/cartercpp/compile-time-matrix-operations)
-- [Lazy Matrix Operations](https://github.com/cartercpp/lazy-matrix-operations)
-- [Matrix Multiplication Using Templates](https://github.com/cartercpp/matrix-multiplication-using-templates)
+### Variant / Tuple Types
+- [Custom Variant](https://github.com/cartercpp/custom-variant)
+- [Custom Expected](https://github.com/cartercpp/custom-expected)
+- [Simple Tuple](https://github.com/cartercpp/simple-tuple)
+- [Union](https://github.com/cartercpp/union)
 
 ### Compile-Time Containers
 - [CT Set](https://github.com/cartercpp/ct-set)
@@ -68,8 +69,13 @@ Companion index: [ml-from-scratch](https://github.com/cartercpp/ml-from-scratch)
 - [Type Set 2](https://github.com/cartercpp/type-set-2)
 - [Type Map](https://github.com/cartercpp/type-map)
 
+### Libraries
+- [C++ STL (from scratch)](https://github.com/cartercpp/cpp-stl)
+- [Containers and Smart Pointers](https://github.com/cartercpp/containers-and-smart-pointers)
+
 ### Memory
 - [Custom Memory Allocator](https://github.com/cartercpp/custom-memory-allocator)
+- [Shared Ptr](https://github.com/cartercpp/shared-ptr)
 
 ## Notes
 
