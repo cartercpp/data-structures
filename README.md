@@ -4,7 +4,7 @@ A collection of data structures implemented from scratch in modern C++ without e
 
 Each link goes to its own repository under [github.com/cartercpp](https://github.com/cartercpp).
 
-Companion index: [ml-from-scratch](https://github.com/cartercpp/ml-from-scratch).
+Companion indexes: [ml-from-scratch](https://github.com/cartercpp/ml-from-scratch) · [algorithms-from-scratch](https://github.com/cartercpp/algorithms-from-scratch) · [cryptography-from-scratch](https://github.com/cartercpp/cryptography-from-scratch) · [systems-from-scratch](https://github.com/cartercpp/systems-from-scratch) · [simulations-and-visuals](https://github.com/cartercpp/simulations-and-visuals) · [compile-time-cpp](https://github.com/cartercpp/compile-time-cpp)
 
 ## Data Structures
 
