@@ -11,12 +11,11 @@ Companion indexes: [ml-from-scratch](https://github.com/cartercpp/ml-from-scratc
 ### Sequences
 - [Vector](https://github.com/cartercpp/vector)
 - [Static Vector](https://github.com/cartercpp/static-vector)
-- [Vector in C](https://github.com/cartercpp/vector-in-c)
 - [Deque](https://github.com/cartercpp/deque)
 - [Linked List](https://github.com/cartercpp/linked-list-demo)
 - [XOR List](https://github.com/cartercpp/xor-list)
 - [N-Dimensional Container](https://github.com/cartercpp/n-dimensional-container)
-- [Custom Span](https://github.com/cartercpp/custom-span)
+- [Span](https://github.com/cartercpp/custom-span)
 
 ### Stacks & Queues
 - [Queue](https://github.com/cartercpp/queue)
@@ -47,8 +46,8 @@ Companion indexes: [ml-from-scratch](https://github.com/cartercpp/ml-from-scratc
 - [Flat Set](https://github.com/cartercpp/flat-set)
 
 ### Maps
-- [Custom Flat Map](https://github.com/cartercpp/custom-flat-map)
-- [Simple Enum Map](https://github.com/cartercpp/simple-enum-map)
+- [Flat Map](https://github.com/cartercpp/custom-flat-map)
+- [Enum Map](https://github.com/cartercpp/simple-enum-map)
 
 ### Graphs & Disjoint Sets
 - [Dijkstra Graph and Skip List](https://github.com/cartercpp/dijkstra-graph-and-skip-list)
@@ -58,20 +57,14 @@ Companion indexes: [ml-from-scratch](https://github.com/cartercpp/ml-from-scratc
 - [LRU Cache](https://github.com/cartercpp/lru-cache)
 
 ### Variant / Tuple Types
-- [Custom Variant](https://github.com/cartercpp/custom-variant)
-- [Custom Expected](https://github.com/cartercpp/custom-expected)
-- [Simple Tuple](https://github.com/cartercpp/simple-tuple)
+- [Variant](https://github.com/cartercpp/custom-variant)
+- [Expected](https://github.com/cartercpp/custom-expected)
+- [Tuple](https://github.com/cartercpp/simple-tuple)
 - [Union](https://github.com/cartercpp/union)
 
 ### Compile-Time Containers
-- [CT Set](https://github.com/cartercpp/ct-set)
-- [Type Set](https://github.com/cartercpp/type-set)
-- [Type Set 2](https://github.com/cartercpp/type-set-2)
+- [Type Set](https://github.com/cartercpp/type-set-2)
 - [Type Map](https://github.com/cartercpp/type-map)
-
-### Libraries
-- [C++ STL (from scratch)](https://github.com/cartercpp/cpp-stl)
-- [Containers and Smart Pointers](https://github.com/cartercpp/containers-and-smart-pointers)
 
 ### Memory
 - [Custom Memory Allocator](https://github.com/cartercpp/custom-memory-allocator)
@@ -79,6 +72,7 @@ Companion indexes: [ml-from-scratch](https://github.com/cartercpp/ml-from-scratc
 
 ## Notes
 
-- Implementations are standalone C++ projects (typically C++20/C++23). A few are in C.
+- Implementations are standalone C++ projects (typically C++20/C++23).
 - No Boost, Abseil, or other container libraries — just the language and the standard library.
 - This repo is an index. The code lives in the linked repositories.
+- Alternate language ports, earlier type-set revisions, and umbrella STL dumps are omitted.
