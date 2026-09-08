@@ -1,0 +1,78 @@
+# From-Scratch Data Structures
+
+A collection of data structures implemented from scratch in modern C++ without external libraries.
+
+Each link goes to its own repository under [github.com/cartercpp](https://github.com/cartercpp).
+
+Companion index: [ml-from-scratch](https://github.com/cartercpp/ml-from-scratch).
+
+## Data Structures
+
+### Sequences
+- [Vector](https://github.com/cartercpp/vector)
+- [Static Vector](https://github.com/cartercpp/static-vector)
+- [Vector in C](https://github.com/cartercpp/vector-in-c)
+- [Deque](https://github.com/cartercpp/deque)
+- [Linked List](https://github.com/cartercpp/linked-list-demo)
+- [XOR List](https://github.com/cartercpp/xor-list)
+
+### Stacks & Queues
+- [Queue](https://github.com/cartercpp/queue)
+- [Min Stack](https://github.com/cartercpp/min-stack)
+- [Ring Buffer](https://github.com/cartercpp/ring-buffer)
+
+### Trees
+- [Binary Search Tree](https://github.com/cartercpp/binary-search-tree)
+- [B-Tree](https://github.com/cartercpp/b-tree)
+- [AA Tree](https://github.com/cartercpp/aa-tree)
+- [Splay Tree](https://github.com/cartercpp/splay-tree)
+- [Scapegoat Tree](https://github.com/cartercpp/scapegoat-tree)
+- [Treap](https://github.com/cartercpp/treap)
+- [Ternary Search Tree](https://github.com/cartercpp/ternary-search-tree)
+- [Fenwick Tree](https://github.com/cartercpp/fenwick-tree)
+- [Segment Tree](https://github.com/cartercpp/segment-tree)
+
+### Heaps
+- [Min Heap](https://github.com/cartercpp/min-heap)
+- [Pairing Heap](https://github.com/cartercpp/pairing-heap)
+- [Leftist Heap](https://github.com/cartercpp/leftist-heap)
+- [Skew Heap](https://github.com/cartercpp/skew-heap)
+
+### Hashing & Sets
+- [Hashtable](https://github.com/cartercpp/hashtable)
+- [Cuckoo Hashing](https://github.com/cartercpp/cuckoo-hashing)
+- [Bloom Filter](https://github.com/cartercpp/bloom-filter)
+- [Flat Set](https://github.com/cartercpp/flat-set)
+- [Hash Algorithms](https://github.com/cartercpp/hash-algorithms)
+
+### Maps
+- [Custom Flat Map](https://github.com/cartercpp/custom-flat-map)
+- [Simple Enum Map](https://github.com/cartercpp/simple-enum-map)
+
+### Graphs & Disjoint Sets
+- [Dijkstra Graph and Skip List](https://github.com/cartercpp/dijkstra-graph-and-skip-list)
+- [Union-Find](https://github.com/cartercpp/union-find)
+
+### Caches
+- [LRU Cache](https://github.com/cartercpp/lru-cache)
+
+### Matrices
+- [Matrix Calculator](https://github.com/cartercpp/matrix-calculator)
+- [Compile-Time Matrix Operations](https://github.com/cartercpp/compile-time-matrix-operations)
+- [Lazy Matrix Operations](https://github.com/cartercpp/lazy-matrix-operations)
+- [Matrix Multiplication Using Templates](https://github.com/cartercpp/matrix-multiplication-using-templates)
+
+### Compile-Time Containers
+- [CT Set](https://github.com/cartercpp/ct-set)
+- [Type Set](https://github.com/cartercpp/type-set)
+- [Type Set 2](https://github.com/cartercpp/type-set-2)
+- [Type Map](https://github.com/cartercpp/type-map)
+
+### Memory
+- [Custom Memory Allocator](https://github.com/cartercpp/custom-memory-allocator)
+
+## Notes
+
+- Implementations are standalone C++ projects (typically C++20/C++23). A few are in C.
+- No Boost, Abseil, or other container libraries — just the language and the standard library.
+- This repo is an index. The code lives in the linked repositories.
